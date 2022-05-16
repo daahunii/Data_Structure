@@ -1,4 +1,4 @@
-// 22100661 정다훈
+// 22100661 jeongdahun
 /* HW6 palindrom Linked list version */
 #include <iostream>
 #include <string>
