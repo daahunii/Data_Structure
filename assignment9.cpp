@@ -1,5 +1,5 @@
 //22100661 jeongdahun
-/* linked list */
+/* linked list */. 
 #include <iostream>
 using namespace std;
 
